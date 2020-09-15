@@ -2,5 +2,4 @@
  The boys wanna know 
 
 # TODO
-- Write a verse
-- 
+- Write a verse using artist word choices
